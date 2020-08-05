@@ -1,6 +1,6 @@
 ### Hi there, I'm Anubhav Jain [AnubhavJain786][website] 👋
 
-## I'm a Husband, Father, Developer, and Teacher!
+## I'm a Student, Empolee, Developer, and Teacher!
 
 - 🔭 I’m currently working on a [Nest JS Projecct][website]!
 - 🌱 I’m currently learning everything 🤣
