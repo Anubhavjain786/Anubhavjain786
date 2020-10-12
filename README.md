@@ -20,6 +20,7 @@
 [<img align="left" alt="Anubhavjain786 | skype" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/skype.svg" />][skype]
 [<img align="left" alt="Anubhavjain786 | steam" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/steam.svg" />][steam]
 [<img align="left" alt="Anubhavjain786 | discord" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg" />][discord]
+[<img align="left" alt="Anubhavjain786 | discord" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/npm.svg" />][npm]
 <br />
 
 ---
@@ -58,3 +59,4 @@
 [skype]: https://join.skype.com/invite/pmNI3tIEwvqP
 [steam]: https://steamcommunity.com/id/RockStarAJ/
 [discord]: https://discord.gg/VdM3Ss
+[npm]: https://www.npmjs.com/~anubhavjain786
