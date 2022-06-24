@@ -2,6 +2,9 @@
 
 ## I'm a Student, Employee, Developer, and Teacher!
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+
+
 - 🔭 I’m currently working on a [Nest JS Projecct][website]!
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other content creators
@@ -45,7 +48,6 @@
 <br />
 <br />
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 ---
 
