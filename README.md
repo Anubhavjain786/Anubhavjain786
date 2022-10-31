@@ -13,7 +13,7 @@
 <table style="border:hidden;">
  <tr>
   <td>
-    <a href="https://app.daily.dev/DailyDevTips"><img src="https://github.com/Anubhavjain786/Anubhavjain786/blob/master/devcard.svg" width="500" alt="Anubhav Jain's Dev Card"/></a>
+    <a href="https://api.daily.dev/devcards/a01aac4222b74720bafb7310cf3bb24b.png?r=ccd"><img src="https://github.com/Anubhavjain786/Anubhavjain786/blob/master/devcard.svg" width="500" alt="Anubhav Jain's Dev Card"/></a>
   </td>
   <td>
      <img style="object-fit:cover;" alt="Anubhavjain786's Github Stats" src="https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy" />
