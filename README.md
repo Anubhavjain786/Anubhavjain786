@@ -2,18 +2,30 @@
 
 ## I'm a Student, Employee, Developer, and Teacher!
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
-
 
 - 🔭 I’m currently working on a [Nest JS Projecct][website]!
-- 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other content creators
-- 🥅 2020 Goals: Contribute more to Open Source projects
+- 🥅 2022 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to play games
 
+---
 
-<a href="https://app.daily.dev/DailyDevTips"><img src="https://github.com/Anubhavjain786/Anubhavjain786/blob/master/devcard.svg" width="400" alt="Anubhav Jain's Dev Card"/></a>
+<table style="border:hidden;">
+ <tr>
+  <td>
+    <a href="https://app.daily.dev/DailyDevTips"><img src="https://github.com/Anubhavjain786/Anubhavjain786/blob/master/devcard.svg" width="500" alt="Anubhav Jain's Dev Card"/></a>
+  </td>
+  <td>
+     <img style="object-fit:cover;" alt="Anubhavjain786's Github Stats" src="https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy" />
+    <img style="object-fit:cover;" alt="Anubhavjain786's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Anubhavjain786&show_icons=true&hide_border=true" />
+   </td>
+  </tr>
+ </table>
 
+ [comment]: [![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+
+
+---
 
 ### Connect with me:
 
@@ -48,14 +60,9 @@
 [<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />][website]
 [<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />][website]
 [<img align="left" alt="Type Script" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" />][website]
-
-<br />
-<br />
-
-
 ---
 
-<img align="left" alt="Anubhavjain786's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Anubhavjain786&show_icons=true&hide_border=true" />
+
 
 [website]: https://github.com/Anubhavjain786
 [twitter]: https://twitter.com/anubhavjain660
