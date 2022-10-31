@@ -11,6 +11,10 @@
 - 🥅 2020 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to play games
 
+
+<a href="https://app.daily.dev/DailyDevTips"><img src="https://github.com/Anubhavjain786/Anubhavjain786/blob/master/devcard.svg" width="400" alt="Anubhav Jain's Dev Card"/></a>
+
+
 ### Connect with me:
 
 [<img align="left" alt="Anubhavjain786" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
