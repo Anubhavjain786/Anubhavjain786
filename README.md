@@ -3,10 +3,8 @@
 ## I'm a Student, Employee, Developer, and Teacher!
 
 
-- 🔭 I’m currently working on a [Nest JS Projecct][website]!
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2022 Goals: Contribute more to Open Source projects
-- ⚡ Fun fact: I love to play games
 
 ---
 
