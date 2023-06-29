@@ -3,24 +3,7 @@
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2023 Goals: Contribute more to Open Source projects
 
----
 
-<table style="border:hidden;">
- <tr>
-  <td>
-    <a href="https://app.daily.dev/anubhavjain1997"><img src="https://github.com/Anubhavjain786/Anubhavjain786/blob/master/devcard.svg" width="500" alt="Anubhav Jain's Dev Card"/></a>
-  </td>
-  <td>
-     <img style="object-fit:cover;" alt="Anubhavjain786's Github Stats" src="https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy" />
-    <img style="object-fit:cover;" alt="Anubhavjain786's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Anubhavjain786&show_icons=true&hide_border=true&hide_rank=true" />
-   </td>
-  </tr>
- </table>
-
- [comment]: [![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
-
-
----
 
 ### Connect with me:
 
