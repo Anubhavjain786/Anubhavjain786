@@ -12,7 +12,7 @@
   </td>
   <td>
      <img style="object-fit:cover;" alt="Anubhavjain786's Github Stats" src="https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy" />
-    <img style="object-fit:cover;" alt="Anubhavjain786's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Anubhavjain786&show_icons=true&hide_border=true" />
+    <img style="object-fit:cover;" alt="Anubhavjain786's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Anubhavjain786&show_icons=true&hide_border=true&hide_rank=true" />
    </td>
   </tr>
  </table>
